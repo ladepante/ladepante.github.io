@@ -26,10 +26,10 @@ author:
   name             : "Lianne Angelico Depante"
   pronouns         : # example: "he/him"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  location         : "Tokyo, Japan"
+  employer         : "National Graduate Institute for Policy Studies"
+  uri              : "https://www.researchgate.net/profile/Lianne_Angelico_Depante"
+  email            : "lcdepante@up.edu.ph" 
 
   # Academic websites
   academia         : # URL
@@ -62,7 +62,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/ladepante/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
