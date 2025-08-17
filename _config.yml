@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Lianne Angelico Depante"
   pronouns         : "he/him"  
-  bio              : "Ph.D. student from the Philippines"
+  bio              : "Development | Industrial Policy | State-building"
   location         : "Tokyo, Japan"
   employer         : "National Graduate Institute for Policy Studies (GRIPS)"
   uri              : "https://www.researchgate.net/profile/Lianne_Angelico_Depante"
